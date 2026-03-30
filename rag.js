@@ -1,3 +1,6 @@
+// Data lo → chunk karo → embeddings banao → DB me save karo  
+// User sawal puche → similar chunks dhoondo → LLM se answer generate karo
+
 import dotenv from "dotenv";
 dotenv.config();
 import { GoogleGenAI } from "@google/genai";
